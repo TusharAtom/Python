@@ -15,5 +15,5 @@ PyScreeze==0.1.26
 PyTweening==1.0.3
 requests==2.23.0
 selenium==3.141.0
-urllib3==1.25.9
+urllib3==1.26.5
 webdriver-manager==2.5.2
